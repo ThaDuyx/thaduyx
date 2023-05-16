@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently studying a MSc in Sound & Music Computing @ Aalborg University
+- 📫 I work part time as a iOS developer @ Shortcut, Cph
 <!--
 **ThaDuyx/thaduyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
