@@ -3,7 +3,7 @@
 - 🎓 BEng - Software Technology @ The Technical University of Denmark (DTU)
 - 👨🏼‍💻 I work part time as a iOS developer @ Shortcut, Cph.
 - 🎵 I spend my free time making music.
-- 💡 I’m currently exploring interactive music technology alongside the intergration of AI in music.
+- 💡 I’m currently exploring interactive music technology alongside integrating AI in music.
 <!--
 **ThaDuyx/thaduyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
