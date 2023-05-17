@@ -1,7 +1,6 @@
 ### Hi there 👋
-* MSc - Sound & Music Computing @ Aalborg University), Cph (AAU).
-* BEng - Software Technology @ The Technical University of Denmark (DTU)
-- 🎓 I’m currently studying a MSc in Sound & Music Computing @ Aalborg University.
+- ⏳ MSc - Sound & Music Computing @ Aalborg University), Cph (AAU).
+- 🎓 BEng - Software Technology @ The Technical University of Denmark (DTU)
 - 👨🏼‍💻 I work part time as a iOS developer @ Shortcut, Cph.
 - 🎵 I spend my free time making music.
 - 💡 I’m currently exploring interactive music technology alongside the intergration of AI in music.
