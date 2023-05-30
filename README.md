@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salutations! 👋
 - 📖 MSc - Sound & Music Computing @ Aalborg University), Cph (AAU).
 - 🎓 BEng - Software Technology @ The Technical University of Denmark (DTU)
 - 👨🏼‍💻 I work part time as a iOS developer @ Shortcut, Cph.
