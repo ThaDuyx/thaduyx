@@ -4,6 +4,11 @@
 - 👨🏼‍💻 I work part time as a iOS developer @ Shortcut, Cph.
 - 🎵 I spend my free time making music.
 - 💡 I’m currently exploring interactive music technology alongside integrating AI in music.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1JARCv57h1frJZDcxBqC8y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
 <!--
 **ThaDuyx/thaduyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
