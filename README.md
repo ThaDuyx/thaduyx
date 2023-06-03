@@ -1,13 +1,10 @@
 ### Salutations! 👋
 - 📖 MSc - Sound & Music Computing @ Aalborg University, Cph (AAU).
 - 🎓 BEng - Software Technology @ The Technical University of Denmark (DTU)
-- 👨🏼‍💻 I work part time as a iOS developer @ Shortcut, Cph.
-- 🎵 I spend my free time making music.
-- 💡 I’m currently exploring interactive music technology alongside integrating AI in music.
-- 💿 Worked on a music duo project called Kreutz as a producer: https://open.spotify.com/artist/1JARCv57h1frJZDcxBqC8y?si=3xxhMoq0Rx2H1XSc_XvC_Q 
-
-
-
+- 👨🏼‍💻 Work - I work part time as a iOS developer @ Shortcut, Cph.
+- 🎵 Leisure - I spend my free time making music.
+- 💡 Field - I’m currently exploring interactive music technology alongside integrating AI in music @ AAU.
+- 💿 Music - Worked on a music duo project called Kreutz as a producer: https://open.spotify.com/artist/1JARCv57h1frJZDcxBqC8y?si=3xxhMoq0Rx2H1XSc_XvC_Q 
 
 <!--
 **ThaDuyx/thaduyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
