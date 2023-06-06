@@ -1,7 +1,9 @@
 ### Salutations! 👋
+### Career
 - 📖 MSc     - Sound & Music Computing @ Aalborg University, Cph (AAU).
 - 🎓 BEng    - Software Technology @ The Technical University of Denmark (DTU)
 - 👨🏼‍💻 Work    - I work part time as a iOS developer @ Shortcut, Cph.
+### Personal
 - 🎨 Design  - I enjoy creating a minimalistic product design.
 - 🎵 Leisure - I spend my free time making music.
 - 💡 Field   - Currently exploring interactive music technology alongside integrating AI in music @ AAU.
