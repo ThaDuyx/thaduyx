@@ -4,7 +4,7 @@
 - 🎓 BEng    - Software Technology @ The Technical University of Denmark (DTU)
 - 👨🏼‍💻 Work    - I work part time as a iOS developer @ Shortcut, Cph.
 ### Personal
-- 🎨 Design  - I enjoy creating a minimalistic product design.
+- 🎨 Design  - I enjoy creating minimalistic product designs.
 - 🎵 Leisure - I spend my free time making music.
 - 💡 Field   - Currently exploring interactive music technology alongside integrating AI in music @ AAU.
 - 💿 Music   - Produced in a music duo called [Kreutz](https://open.spotify.com/artist/1JARCv57h1frJZDcxBqC8y?si=3xxhMoq0Rx2H1XSc_XvC_Q) 
