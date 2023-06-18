@@ -7,9 +7,16 @@
 ### Personal
 - 🎵 Leisure - I spend my free time making music.
 - 💡 Field   - Currently exploring interactive music technology alongside integrating AI in music @ AAU.
-- 💿 Music   - Produced in a music duo called [Kreutz](https://open.spotify.com/artist/1JARCv57h1frJZDcxBqC8y?si=3xxhMoq0Rx2H1XSc_XvC_Q) 
+- 💿 Music   - Produced in a music duo called [Kreutz](https://open.spotify.com/artist/1JARCv57h1frJZDcxBqC8y?si=3xxhMoq0Rx2H1XSc_XvC_Q)
+
+### Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThaDuyx&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
+
 
 <!--
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 **ThaDuyx/thaduyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
