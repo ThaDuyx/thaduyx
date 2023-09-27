@@ -1,8 +1,9 @@
 ## Salutations! 👋
 ### Career
+- 🎧 Intern  - I am currently doing a project oriented internship @ Jabra, Ballerup 
 - 📖 MSc     - Sound & Music Computing @ Aalborg University, Cph (AAU).
 - 🎓 BEng    - Software Technology @ The Technical University of Denmark (DTU)
-- 👨🏼‍💻 Work    - I work part time as a iOS developer @ Shortcut, Cph.
+- 👨🏼‍💻 Exp.    - I worked part time as a iOS developer @ Shortcut, Cph. for two years.
 - 🎨 Design  - I enjoy creating minimalistic & intuitive product designs.
 ### Personal
 - 🎵 Leisure - I spend my free time making music.
