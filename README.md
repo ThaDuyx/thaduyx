@@ -1,7 +1,7 @@
 ## Salutations! 👋
 ### Career
-- 🎧 Internship  - I am currently doing a project oriented internship @ Jabra, Ballerup
-- 👨🏼‍💻 Experience  - I worked part time as a iOS developer @ Shortcut, Cph. for two years.
+- 🎧 Thesis      - I am doing a Master Thesis on classifiying Electronic Music sounds using deep learning which will conclude my MSc @ AAU.
+- 👨🏼‍💻 Experience  - I worked part time as a iOS developer @ Shortcut, Cph. for two years. Also did a project oriented internship @ Jabra, Ballerup for 6 months.
 - 📖 MSc         - Sound & Music Computing @ Aalborg University, Cph (AAU).
 - 🎓 BEng        - Software Technology @ The Technical University of Denmark (DTU)
 - 🎨 Design      - I enjoy creating minimalistic & intuitive product designs.
