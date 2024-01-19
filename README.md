@@ -1,6 +1,6 @@
 ## Salutations! 👋
 ### Career
-- 🎧 Thesis      - I am doing a Master Thesis on classifiying Electronic Music sounds using deep learning which will conclude my MSc @ AAU.
+- 🎧 Thesis      - Deep Learning for Enhanced Categorization of Diverse Sound Designs in Electronic Dance Music: Leveraging Fundamental Harmonic Instruments and Synthesizer Plugins. 
 - 👨🏼‍💻 Experience  - I worked part time as a iOS developer @ Shortcut, Cph. for two years. Also did a project oriented internship @ Jabra, Ballerup for 6 months.
 - 📖 MSc         - Sound & Music Computing @ Aalborg University, Cph (AAU).
 - 🎓 BEng        - Software Technology @ The Technical University of Denmark (DTU)
