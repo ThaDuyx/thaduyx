@@ -4,10 +4,10 @@
 - 👨🏼‍💻 Experience  - I worked part time as a iOS developer @ Shortcut, Cph. for two years. Also did a project oriented internship @ Jabra, Ballerup for 6 months.
 - 📖 MSc         - Sound & Music Computing @ Aalborg University, Cph (AAU).
 - 🎓 BEng        - Software Technology @ The Technical University of Denmark (DTU)
-- 🎨 Design      - I enjoy creating minimalistic & intuitive product designs.
 ### Personal
 - 🎵 Leisure     - I spend my free time making music.
 - 💡 Field       - Currently exploring interactive music technology alongside integrating AI in music @ AAU.
+- 🎨 Design      - I enjoy creating minimalistic & intuitive product designs.
 - 💿 Music       - Produced in a music duo called [Kreutz](https://open.spotify.com/artist/1JARCv57h1frJZDcxBqC8y?si=3xxhMoq0Rx2H1XSc_XvC_Q)
 
 
