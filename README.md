@@ -6,6 +6,8 @@
 ### Education
 - 📖 MSc         - Sound & Music Computing @ Aalborg University, Cph ([AAU](https://www.en.aau.dk)).
 - 🎓 BEng        - Software Technology @ The Technical University of Denmark ([DTU](https://www.dtu.dk/english/)).
+
+### Interests
 - 🤖 Thesis      - Deep Learning for Enhanced Categorization of Diverse Sound Designs in Electronic Dance Music.
 - 💡 Field       - Interactive music technology and integrating AI as colaboration for music production @ AAU.
 
