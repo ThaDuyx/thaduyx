@@ -7,7 +7,7 @@
 ### Competencies
 - 💡 Field       - Interactive music technology and integrating AI as colaboration for music production @ AAU.
 - 🎨 Design      - I enjoy creating minimalistic & intuitive product designs.
-- 🎧 Thesis      - Deep Learning for Enhanced Categorization of Diverse Sound Designs in Electronic Dance Music: Leveraging Fundamental Harmonic Instruments and Synthesizer Plugins. 
+- 🎧 Thesis      - Deep Learning for Enhanced Categorization of Diverse Sound Designs in Electronic Dance Music.
 
 ### Personal
 - 🎵 Leisure     - I spend my free time making music.
