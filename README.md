@@ -1,6 +1,5 @@
 ## Salutations! 👋
 ### Career
-- 🎧 Thesis      - Deep Learning for Enhanced Categorization of Diverse Sound Designs in Electronic Dance Music: Leveraging Fundamental Harmonic Instruments and Synthesizer Plugins. 
 - 👨🏼‍💻 Experience  - Internship and part time as an iOS developer @ Shortcut, Cph. for two years. Project oriented internship @ Jabra, Ballerup for 6 months.
 - 📖 MSc         - Sound & Music Computing @ Aalborg University, Cph (AAU).
 - 🎓 BEng        - Software Technology @ The Technical University of Denmark (DTU).
@@ -8,6 +7,7 @@
 ### Competencies
 - 💡 Field       - Interactive music technology and integrating AI as colaboration for music production @ AAU.
 - 🎨 Design      - I enjoy creating minimalistic & intuitive product designs.
+- 🎧 Thesis      - Deep Learning for Enhanced Categorization of Diverse Sound Designs in Electronic Dance Music: Leveraging Fundamental Harmonic Instruments and Synthesizer Plugins. 
 
 ### Personal
 - 🎵 Leisure     - I spend my free time making music.
