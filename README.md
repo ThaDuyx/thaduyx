@@ -1,13 +1,16 @@
 ## Salutations! 👋
 ### Career
 - 🎧 Thesis      - Deep Learning for Enhanced Categorization of Diverse Sound Designs in Electronic Dance Music: Leveraging Fundamental Harmonic Instruments and Synthesizer Plugins. 
-- 👨🏼‍💻 Experience  - I worked part time as a iOS developer @ Shortcut, Cph. for two years. Also did a project oriented internship @ Jabra, Ballerup for 6 months.
+- 👨🏼‍💻 Experience  - Internship and part time as an iOS developer @ Shortcut, Cph. for two years. Project oriented internship @ Jabra, Ballerup for 6 months.
 - 📖 MSc         - Sound & Music Computing @ Aalborg University, Cph (AAU).
-- 🎓 BEng        - Software Technology @ The Technical University of Denmark (DTU)
+- 🎓 BEng        - Software Technology @ The Technical University of Denmark (DTU).
+
+### Competencies
+- 💡 Field       - Interactive music technology and integrating AI as colaboration for music production @ AAU.
+- 🎨 Design      - I enjoy creating minimalistic & intuitive product designs.
+
 ### Personal
 - 🎵 Leisure     - I spend my free time making music.
-- 💡 Field       - Currently exploring interactive music technology alongside integrating AI in music @ AAU.
-- 🎨 Design      - I enjoy creating minimalistic & intuitive product designs.
 - 💿 Music       - Produced in a music duo called [Kreutz](https://open.spotify.com/artist/1JARCv57h1frJZDcxBqC8y?si=3xxhMoq0Rx2H1XSc_XvC_Q)
 
 
