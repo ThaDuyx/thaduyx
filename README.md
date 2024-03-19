@@ -1,15 +1,16 @@
 ## Salutations! 👋
-### Career
-- 👨🏼‍💻 Experience  - Internship and part time as an iOS developer @ Shortcut, Cph. for two years. Project oriented internship @ Jabra, Ballerup for 6 months.
+### Work
+- 👨🏼‍💻 Shortcut, Cph. - Did and internship and worked part time as an iOS developer @ Shortcut, Cph. for two years. 
+- 🎧 Jabra, Ballerup - Project oriented internship @ Jabra, Ballerup for 6 months.
+
+### Education
 - 📖 MSc         - Sound & Music Computing @ Aalborg University, Cph (AAU).
 - 🎓 BEng        - Software Technology @ The Technical University of Denmark (DTU).
-
-### Competencies
-- 💡 Field       - Interactive music technology and integrating AI as colaboration for music production @ AAU.
-- 🎨 Design      - I enjoy creating minimalistic & intuitive product designs.
 - 🎧 Thesis      - Deep Learning for Enhanced Categorization of Diverse Sound Designs in Electronic Dance Music.
+- 💡 Field       - Interactive music technology and integrating AI as colaboration for music production @ AAU.
 
 ### Personal
+- 🎨 Design      - I enjoy creating minimalistic & intuitive product designs.
 - 🎵 Leisure     - I spend my free time making music.
 - 💿 Music       - Produced in a music duo called [Kreutz](https://open.spotify.com/artist/1JARCv57h1frJZDcxBqC8y?si=3xxhMoq0Rx2H1XSc_XvC_Q)
 
