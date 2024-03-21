@@ -1,6 +1,6 @@
 ## Salutations! 👋
 ### Work
-- 👨🏼‍💻 [Shortcut](https://shortcut.io/denmark/) - Internship and worked part time as an iOS developer for two years. 
+- 📱 [Shortcut](https://shortcut.io/denmark/) - Internship and worked part time as an iOS developer for two years. 
 - 🎧 [Jabra](https://www.jabra.com) - Project oriented internship for 6 months.
 
 ### Education
